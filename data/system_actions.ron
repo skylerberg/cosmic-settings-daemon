@@ -37,6 +37,8 @@
     WebBrowser: "xdg-open http://",
     /// Opens the (alt+tab) window switcher
     WindowSwitcher: "cosmic-launcher alt-tab",
+    /// Opens the (alt+tab) window switcher
+    WindowSwitcherReverse: "cosmic-launcher alt-shift-tab",
     /// Opens the workspace overview
     WorkspaceOverview: "cosmic-workspaces",
 }
